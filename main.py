@@ -33,8 +33,7 @@ while loop:
                 if int(ti[1]) == int(current_mins):
                     pyautogui.hotkey('enter')
                     print(f"uh ho you've got a zoom meeting now :-- {current_hrs}:{current_mins}")
-#                     pyautogui.click(x=614, y=745)
-                    subprocess.Popen(r"path\to\zoom.exe")
+                    subprocess.Popen(r"path\to\zoom.exe")#where you installed zoom.exe 
                     time.sleep(1)
                     pyautogui.hotkey('windows', 'up')
                     time.sleep(1)
