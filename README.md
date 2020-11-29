@@ -1,5 +1,5 @@
 # zoom-automation
-it is a zoom bot which will join your zoom meetings on it's own automatically
+it is a zoom bot which will join your zoom meetings on it's own automatically                                                                                                       
 how to use?
 just install python and add a few libraries 
 that are
