@@ -5,8 +5,9 @@ note:-it may take some time even after its time forthe meeting due to its algori
 	so don't worry just give it around half a minute and your work will be done
 to get started 
 make sure to add the correct path where you've installed zoom application in the path.txt you'll find in it
-then launch the start.exe and you'll see what to do 
-you need to first click on the save info button and then done after saving all your future meetings of the day 
+then launch the start.exe and you'll see what to do.
+
+First click on the save info button and then done after saving all your future meetings of the day 
 
 
 
