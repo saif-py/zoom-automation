@@ -3,7 +3,11 @@ just enter your meeting id password and time(24hr format)
 and it willl automatically join the meeting at the right time                                                                                                                                                                                                                                                                                         
 
 note:-it may take some time even after its time forthe meeting due to its algorithm to stop it's process until the right time 
-	so don't worry just give it around half a minute and your work will be done                                                                                                                                                                           
+	so don't worry just give it around half a minute and your work will be done                                                                                                      
+	
+	
+	
+	
 to get started 
 
 
